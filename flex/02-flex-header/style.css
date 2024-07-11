@@ -4,6 +4,7 @@
   background: papayawhip;
   justify-content: space-between;
   padding:8px;
+  align-items:center;
 }
 
 .logo {
