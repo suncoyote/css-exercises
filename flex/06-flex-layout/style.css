@@ -54,8 +54,11 @@ ul{
 }
 
 .content {
-  margin:auto;
   display:flex;
   flex-direction: column;
   align-items:center; 
+}
+
+button {
+  padding:8px;
 }
