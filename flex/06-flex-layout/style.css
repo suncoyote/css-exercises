@@ -47,7 +47,7 @@ ul{
 }
 
 .footer {
-  background-color: lightgray;
+  background-color: #eee;
   display:flex;
   justify-content: space-between;
 
@@ -60,7 +60,7 @@ ul{
 }
 
 button {
-  padding:8px;
+  padding:8px 16px;
 }
 
 .input {
