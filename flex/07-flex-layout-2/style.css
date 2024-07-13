@@ -12,6 +12,7 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
+
 }
 
 .footer {
@@ -23,15 +24,19 @@ body {
 .horizontal {
   display:flex;
   flex-direction: row;
-
 }
+
 .sidebar {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
 }
 
-
+.content {
+  display:flex;
+  flex-wrap: wrap;
+  padding: 48px;
+}
 
 .card {
   border: 1px solid #eee;
