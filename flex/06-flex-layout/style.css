@@ -38,7 +38,7 @@ ul{
   justify-content: space-between;
 }
 
-.header a {
+.header a, .footer a {
   text-decoration:none;
   color: black;
 }
@@ -48,3 +48,4 @@ ul{
   display:flex;
   justify-content: space-between;
 }
+
