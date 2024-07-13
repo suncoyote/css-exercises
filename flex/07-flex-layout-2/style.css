@@ -40,13 +40,18 @@ body {
   flex-shrink:0;
   padding:16px;
   font-size:24px;
+ 
 
 }
 .sidebar ul, .sidebar ul a {
   color:white;
   text-decoration: none;
   list-style-type: none;
-  padding:0px;
+  padding:0px; 
+  margin: 0px;  
+}
+.sidebar li {
+  margin-bottom: 16px;
 }
 
 .content {
